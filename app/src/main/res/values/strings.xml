@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="login">Войти</string>
+    <string name="create">Создать мероприятие</string>
+    <string name="exciting">Ваши мероприятия</string>
+    <string name="app_name">Билеты</string>
+    <string name="create_event">Создать мероприятие</string>
+    <string name="event_name">Имя мероприятия</string>
+    <string name="event_date">Дата мероприятия</string>
+    <string name="err1">Введите имя и дату</string>
+    <string name="error">Ошибка</string>
+    <string name="eventN">Мероприятие NAME</string>
+    <string name="add_ticket">Добавить билет</string>
+    <string name="scan">Открыть сканер</string>
+    <string name="generate">Сгенерировать билет</string>
+    <string name="enter_name">Введите имя и фамилию</string>
+    <string name="err2">Введите имя и фамилию</string>
+    <string name="save">Сохранить билет</string>
+    <string name="success">Успешно сохранено</string>
+    <string name="success_no">Что-то пошло не так... Попробуйте ещё раз</string>
+    <string name="name">Имя</string>
+    <string name="scan_button">Сканировать</string>
+    <string name="event">Мероприятие</string>
+    <string name="event_already_exists">Мероприятие с таким именем уже существует</string>
+    <string name="open">Открыть</string>
+    <string name="no_existing_events">У вас нет мероприятий</string>
+</resources>
